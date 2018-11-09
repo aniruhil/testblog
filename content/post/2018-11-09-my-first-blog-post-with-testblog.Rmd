@@ -1,0 +1,22 @@
+---
+title: My first blog post with testblog
+author: Ani Ruhil
+date: '2018-11-09'
+slug: my-first-blog-post-with-testblog
+categories: []
+tags: []
+---
+
+## Hello World!!! 
+
+Please help us get this working 
+
+
+```{r}
+library(ggplot2)
+
+ggplot(diamonds, aes(x = carat, y = price)) + 
+  geom_point()
+```
+
+
